@@ -26,7 +26,7 @@
     },
     "error": {
       "title": "Sekret nie istnieje",
-      "subtitle": "Może to być spowodowane przez którykolwiek z tych powodów.",
+      "subtitle": "Może to być spowodowane przez któryś z tych powodów.",
       "titleOpened": "Otwarty wcześniej",
       "subtitleOpenedBefore": "Sekret można ograniczyć do jednego pobrania. Może zostać utracony, gdy nadawca kliknął ten link, zanim go wyświetliłeś.",
       "subtitleOpenedCompromised": "Sekret mógł zostać naruszony i przeczytany przez kogoś innego. Powinieneś skontaktować się z nadawcą i poprosić o nowy sekret.",
@@ -45,7 +45,7 @@
     },
     "secret": {
       "titleFile": "Plik pobrany",
-      "titleMessage": "Wiadomość odszyfrowana",
+      "titleMessage": "Odszyfrowana wiadomość",
       "subtitleMessage": "Ten Sekret może nie być ponownie widoczny, pamiętaj aby go zapisać teraz!",
       "buttonCopy": "Kopiuj"
     },
@@ -67,8 +67,8 @@
     "expiration": {
       "legend": "Zaszyfrowana wiadomość zostanie automatycznie usunięta po",
       "optionOneHourLabel": "Jednej godzinie",
-      "optionOneDayLabel": "Jedenym dniu",
-      "optionOneWeekLabel": "Jedenym tygodniu"
+      "optionOneDayLabel": "Jednym dniu",
+      "optionOneWeekLabel": "Jednym tygodniu"
     },
     "features": {
       "title": "Bezpiecznie i łatwo udostępniaj Sekrety",
