@@ -1,7 +1,7 @@
 {
     "create": {
       "title": "Zaszyfruj wiadomość",
-      "inputSecretLabel": "Tajna wiadomość",
+      "inputSecretLabel": "Sekretna wiadomość",
       "inputSecretPlaceholder": "Wiadomość do zaszyfrowania lokalnie w przeglądarce",
       "buttonEncrypt": "Zaszyfruj wiadomość",
       "buttonEncryptLoading": "Szyfrowanie wiadomości...",
@@ -11,14 +11,14 @@
     },
     "upload": {
       "title": "Upuść plik, aby go przesłać",
-      "caption": "Przesyłanie jest przeznaczone dla małych plików, takich jak klucze ssh i certyfikaty.",
+      "caption": "Dozwolone są tylko małe pliki, takie jak klucze ssh i certyfikaty.",
       "errorFileTooLarge": "Plik jest za duży"
     },
     "display": {
       "titleFetching": "Pobieranie z bazy danych, proszę czekać...",
       "titleDecrypting": "Deszyfrowywanie, proszę czekać...",
       "titleDecryptionKey": "Wprowadź klucz deszyfrowania",
-      "captionDecryptionKey": "Nie odświeżaj tego okna, ponieważ poufne informacje mogą być ograniczone tylko do jednorazowego pobrania.",
+      "captionDecryptionKey": "Nie odświeżaj tego okna, ponieważ Sekrety mogą być ograniczone tylko do jednorazowego pobrania.",
       "inputDecryptionKeyPlaceholder": "Klucz deszyfrujący",
       "inputDecryptionKeyLabel": "Wymagany jest klucz deszyfrowywania, wprowadź go poniżej",
       "errorInvalidPassword": "Hasło nieprawidłowe, spróbuj ponownie",
@@ -66,9 +66,9 @@
     },
     "expiration": {
       "legend": "Zaszyfrowana wiadomość zostanie automatycznie usunięta po",
-      "optionOneHourLabel": "Jedna godzina",
-      "optionOneDayLabel": "Jeden dzień",
-      "optionOneWeekLabel": "Jeden tydzień"
+      "optionOneHourLabel": "Jednej godzinie",
+      "optionOneDayLabel": "Jedenym dniu",
+      "optionOneWeekLabel": "Jedenym tygodniu"
     },
     "features": {
       "title": "Bezpiecznie i łatwo udostępniaj Sekrety",
@@ -76,15 +76,15 @@
       "featureEndToEndTitle": "Szyfrowanie End-to-end",
       "featureEndToEndText": "Szyfrowanie i deszyfrowanie odbywa się lokalnie w przeglądarce. Klucz nigdy nie jest przechowywany w yopass.",
       "featureSelfDestructionTitle": "Samozniszczenie",
-      "featureSelfDestructionText": "Zaszyfrowane wiadomości mają określony czas życia i zostaną automatycznie usunięte po wygaśnięciu.",
+      "featureSelfDestructionText": "Zaszyfrowane wiadomości istnieją tylko przez określony czas i zostaną automatycznie usunięte po wygaśnięciu.",
       "featureOneTimeTitle": "Jednorazowe pobieranie",
       "featureOneTimeText": "Zaszyfrowaną wiadomość można pobrać tylko raz, co zmniejsza ryzyko, że ktoś podejrzy Twoje sekrety.",
       "featureSimpleSharingTitle": "Proste udostępnianie",
       "featureSimpleSharingText": "Yopass generuje unikalny jednorazowy link do zaszyfrowanego pliku lub wiadomości. Hasło deszyfrujące można alternatywnie przesłać osobno.",
-      "featureNoAccountsTitle": "Nie są potrzebne żadne konta",
+      "featureNoAccountsTitle": "Brak kont",
       "featureNoAccountsText": "Udostępnianie powinno być szybkie i łatwe. W bazie danych nie są przechowywane żadne dodatkowe informacje poza zaszyfrowanym sekretem.",
       "featureOpenSourceTitle": "Open Source",
-      "featureOpenSourceText": "Mechanizmy szyfrowania Yopass są zbudowane na oprogramowaniu open source, co oznacza pełną przejrzystość z możliwością audytu i zgłaszanie nowych funkcji."
+      "featureOpenSourceText": "Mechanizmy szyfrowania Yopass są zbudowane na oprogramowaniu open source, co oznacza pełną przejrzystość z możliwością audytu i zgłaszania nowych funkcji."
     },
     "header": {
       "buttonHome": "Strona główna",
